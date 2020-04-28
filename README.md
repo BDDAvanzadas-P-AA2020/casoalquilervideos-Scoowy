@@ -17,5 +17,4 @@ Diseño físico (para Oracle)
 
 
 # Trabajo Resuelto
-
-Revisar la Wiki...
+La tarea se encuentra en la [Wiki](https://github.com/BDDAvanzadas-P-AA2020/casoalquilervideos-Scoowy/wiki) del repositorio.
