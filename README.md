@@ -18,19 +18,4 @@ Diseño físico (para Oracle)
 
 # Trabajo Resuelto
 
-# Propuesta de almacenamiento de datos
-## Caso de estudio: Alquiler de videos
-## Hardware: Data Storage de 24 Discos
-
-## Nro de discos usados: 4 discos
-
-## Distribución de discos:
-| Nro discos | Tablas |
-| ---------- | ------ |
-| 1 | Socio  |
-| 1 | Pelicula, Director, Participantes, Actor |
-| 1 | Alquileres |
-| 1 | Ejemplar |
-
-## Justificación:
-Teniendo en cuenta que se puede tener un número elevado de películas se decidió poner la tabla Pelicula en un disco único, junto a las tablas de Director, Participantes y  Actor que complementan la información de la película.
+Revisar la Wiki...
