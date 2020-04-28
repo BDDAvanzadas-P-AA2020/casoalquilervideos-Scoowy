@@ -25,10 +25,12 @@ Diseño físico (para Oracle)
 ## Nro de discos usados: 4 discos
 
 ## Distribución de discos:
-	1 - Tabla Socio
-	1 - Tablas Pelicula, Director, Participantes, Actor
-	1 - Tabla Alquileres
-	1 - Tabla Ejemplar
+| Nro discos | Tablas |
+| ---------- | ------ |
+| 1 | Socio  |
+| 1 | Pelicula, Director, Participantes, Actor |
+| 1 | Alquileres |
+| 1 | Ejemplar |
 
 ## Justificación:
 Teniendo en cuenta que se puede tener un número elevado de películas se decidió poner la tabla Pelicula en un disco único, junto a las tablas de Director, Participantes y  Actor que complementan la información de la película.
